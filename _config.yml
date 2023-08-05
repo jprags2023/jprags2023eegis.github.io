@@ -7,9 +7,9 @@ description: >
 baseurl: "" 
 #url: "http://localhost:4000" 
 url: https://jprags2023.github.io 
-#repository: 'egeis/jekyll-modern-business'
+repository: 'egeis/jekyll-modern-business'
 #repository: 'jprags2023'
-repository: ''
+#repository: ''
 category_dir: 'blog'
 
 # Theme Settings
