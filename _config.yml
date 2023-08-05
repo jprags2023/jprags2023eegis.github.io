@@ -6,8 +6,8 @@ description: >
   Our primary aim is to illuminate the perfect path toward a happy life, while effortlessly evading diseases and suffering.
 baseurl: "" 
 url: "http://localhost:4000" 
-#repository: 'egeis/jekyll-modern-business'
-repository: ''
+repository: 'egeis/jekyll-modern-business'
+#repository: ''
 category_dir: 'blog'
 
 # Theme Settings
