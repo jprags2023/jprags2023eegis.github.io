@@ -4,7 +4,8 @@ email: theanuyoginstitute@gmail.com
 description: >
   Welcome to our transformative community of dedicated scientists and scholars on a quest to merge the deep knowledge from the Vedas with cutting-edge scientific advancements. 
   Our primary aim is to illuminate the perfect path toward a happy life, while effortlessly evading diseases and suffering.
-baseurl: "" 
+#baseurl: "" 
+baseurl: /PROJECT
 #url: "http://localhost:4000" 
 url: "https://jprags2023.github.io" 
 #repository: 'egeis/jekyll-modern-business'
