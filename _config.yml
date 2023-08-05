@@ -9,7 +9,7 @@ baseurl: ""
 url: https://jprags2023.github.io 
 #repository: 'egeis/jekyll-modern-business'
 #repository: 'jprags2023'
-#repository: ''
+repository: ''
 category_dir: 'blog'
 
 # Theme Settings
